@@ -1,16 +1,13 @@
-## Hi there 👋
+### hello from Indonesia, i'm baretankko 👋
 
-<!--
-**baretankko/baretankko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 🎯 This year's goal: ship something every month
+- 📝 I keep notes about lightweight tools
+- 🌱 Learning TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=baretankko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="baretankko GitHub stats" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=baretankko&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/TypeScript-fb923c?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-fb923c?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Python-fb923c?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/React-fb923c?style=for-the-badge&logoColor=white" alt="React" />
